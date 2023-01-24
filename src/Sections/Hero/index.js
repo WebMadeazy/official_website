@@ -194,9 +194,9 @@ const HeroSection = () => {
             <Circle />
             <span style={{color: '#D5CEA3'}}>We Build Web</span>
           </Topic>
-          <Title>Transforming your digital presence</Title>
+          <Title>Making your websites starting just from 1000 rupees</Title>
           <SubText>
-            we help fast growing companies build award winning websites
+            we help growing companies build phenomenal websites and increase brand identity
           </SubText>
           <CTA>
             Get in touch &nbsp;
