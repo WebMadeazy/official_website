@@ -198,10 +198,12 @@ const HeroSection = () => {
           <SubText>
             we help growing companies build phenomenal websites and increase brand identity
           </SubText>
+          <a href="#contact">
           <CTA>
             Get in touch &nbsp;
             <img src={arrow} alt="cta" width="100" height="100" />
           </CTA>
+          </a>
         </Lb>
 
         <MobileSvg

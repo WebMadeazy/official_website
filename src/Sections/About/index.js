@@ -102,15 +102,6 @@ const Text = styled.h4`
   line-height: 1.5;
   color: #1A120B;
 `;
-const Circle = styled.span`
-  display: inline-block;
-  width: 1rem;
-  height: 1rem;
-  border-radius: 50%;
-  background-color: black;
-  margin-right: 0.5rem;
-  margin-top: 1rem;
-`;
 const AboutText = styled.div`
   width: 50%;
   position: relative;
@@ -146,11 +137,7 @@ const About = () => {
               projects that are able to attract and involve, creating strategic
               value.
             </Text>
-            <div>
-              <Circle style={{ backgroundColor: "var(--purple)" }} />
-              <Circle style={{ backgroundColor: "var(--pink)" }} />
-              <Circle style={{ backgroundColor: "var(--black)" }} />
-            </div>
+            
           </AboutText>
         </Content>
       </Main>
